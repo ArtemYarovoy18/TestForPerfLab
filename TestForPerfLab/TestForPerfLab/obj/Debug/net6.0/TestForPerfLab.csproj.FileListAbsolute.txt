@@ -1,0 +1,15 @@
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\bin\Debug\net6.0\TestForPerfLab.exe
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\bin\Debug\net6.0\TestForPerfLab.deps.json
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\bin\Debug\net6.0\TestForPerfLab.runtimeconfig.json
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\bin\Debug\net6.0\TestForPerfLab.dll
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\bin\Debug\net6.0\TestForPerfLab.pdb
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\obj\Debug\net6.0\TestForPerfLab.csproj.AssemblyReference.cache
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\obj\Debug\net6.0\TestForPerfLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\obj\Debug\net6.0\TestForPerfLab.AssemblyInfoInputs.cache
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\obj\Debug\net6.0\TestForPerfLab.AssemblyInfo.cs
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\obj\Debug\net6.0\TestForPerfLab.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\obj\Debug\net6.0\TestForPerfLab.dll
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\obj\Debug\net6.0\refint\TestForPerfLab.dll
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\obj\Debug\net6.0\TestForPerfLab.pdb
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\obj\Debug\net6.0\TestForPerfLab.genruntimeconfig.cache
+C:\Users\Artem\Documents\GitHub\TestForPerfLab\TestForPerfLab\TestForPerfLab\obj\Debug\net6.0\ref\TestForPerfLab.dll
